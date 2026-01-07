@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+groq
+python-dotenv
+presidio-analyzer
+presidio-anonymizer
+spacy
+pytest
+pytest-asyncio
+pydantic>=2.0.0
+astrapy
+sentence-transformers
